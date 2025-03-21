@@ -1,0 +1,6 @@
+@PRL_HostAddress = http://localhost:5095
+
+GET {{PRL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
